@@ -1,0 +1,18 @@
+{
+    "profiles":[
+        {
+            "basic":{
+                "name":"Kasyap",
+                "role":"web developer",
+                "phone":"9165245840"
+            }
+        },
+        {
+            "basic":{
+                "name":"Keerthana Kattamuri",
+                "role":"web developer",
+                "phone":"9165245847"
+            }
+        }
+    ]
+}
